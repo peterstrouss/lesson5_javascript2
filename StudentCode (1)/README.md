@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 13, 2017
 
 ### Student Name:  
-(First and Last Name)
+Peter Strouss
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To use Javascript to edit the income tax calculator to allow to different filing options.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+git@github.com:peterstrouss/lesson5_javascript2.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Making decisions with conditional statements.
+2. Creating reusable code with functions.
+3. Building array objects.
